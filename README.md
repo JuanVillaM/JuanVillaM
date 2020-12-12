@@ -3,9 +3,7 @@
 - 💬 Ask me about anything you want, well, about this.
 - 📫 You can reach me and write me: juanestebanvillamemdoza@gmail.com.
 - 📫 You can reach and follow me on: [Instagram](https://instagram.com/thejuan_villa)
-- 🤡 Fun fact: I fought a crocodile, really.
-- :joy: Thing you believed about me: That I've fought with a crocodile.
-
+- :computer: I really love programming.
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
