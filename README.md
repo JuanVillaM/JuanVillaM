@@ -1,4 +1,4 @@
-# Hi. I'm Juan Villa.
+# Hello. I'm Juan Villa.
 - 🌱 I’m currently learning Web Development, Frontend and Backend.
 - 💬 Ask me about anything you want, well, about this.
 - 📫 You can reach me and write me: juanestebanvillamemdoza@gmail.com.
