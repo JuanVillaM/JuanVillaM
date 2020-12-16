@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Web Development, Frontend and Backend.
 - 💬 Ask me about anything you want, well, about this.
 - 📫 You can reach me and write me: juanestebanvillamemdoza@gmail.com.
-- 📫 You can reach and follow me on: [Instagram](https://instagram.com/thejuan_villa)
+- :wink: Don't forget follow me on [Instagram](https://instagram.com/thejuan_villa)
 - :computer: I really love programming.
 ## ⚡ Technologies
 
