@@ -1,9 +1,10 @@
 # Hello. I'm Juan Villa.
 - 🌱 I’m currently learning Web Development, Frontend and Backend.
-- 💬 Ask me about anything you want, well, about this.
 - 📫 You can reach me and write me: juanestebanvillamemdoza@gmail.com.
-- :wink: Don't forget follow me on [Instagram](https://instagram.com/thejuan_villa)
 - :computer: I really love programming.
+- 💬 Here is my [Twitter](https://twitter.com/juanevillam).
+- :camera: Here is my [Instagram](https://instagram.com/juanevillam).
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
