@@ -2,8 +2,9 @@
 - 🌱 I’m currently learning Web Development, Frontend and Backend.
 - 📫 You can reach me and write me: juanestebanvillamemdoza@gmail.com.
 - :computer: I really love programming.
-- 💬 Here is my [Twitter](https://twitter.com/juanevillam).
-- :camera: Here is my [Instagram](https://instagram.com/juanevillam).
+- :rocket: Here I am to create technology and improve the World by it.
+- 💬 Here is my [Twitter](https://twitter.com/juanevillam) where I publish nice things.
+- :camera: Here is my [Instagram](https://instagram.com/juanevillam) where I publish nice photos.
 
 ## ⚡ Technologies
 
