@@ -9,7 +9,7 @@
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F5F5F5?style=flat-square&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-FF0000?style=flat-square&logo=angular)
 ![ReactJS](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
 ![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
